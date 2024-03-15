@@ -186,6 +186,92 @@ If you'd like to cite this book, you can use the following BibTeX entry:
 ```
 
 
+Repository containing notebooks of my posts on MEDIUM.
+
+To be notified every time a new post is published, SUBSCRIBE HERE.
+
+"Buy Me A Coffee"
+Posts ordered by most recent publishing date
+
+    Hitting Time Forecasting: The Other Way for Time Series Probabilistic Forecasting [post]|[code]
+    Forecasting with Granger Causality: Checking for Time Series Spurious Correlations [post]|[code]
+    Hacking Causal Inference: Synthetic Control with ML approaches [post]|[code]
+    Model Selection with Imbalance Data: Only AUC may Not Save you [post]|[code]
+    PCA for Multivariate Time Series: Forecasting Dynamic High-Dimensional Data [post]|[code]
+    Hacking Statistical Significance: Hypothesis Testing with ML Approaches [post]|[code]
+    Time Series Forecasting with Conformal Prediction Intervals: Scikit-Learn is All you Need [post]|[code]
+    Rethinking Survival Analysis: How to Make your Model Produce Survival Curves [post]|[code]
+    Extreme Churn Prediction: Forecasting Without Features [post]|[code]
+    Forecast Time Series with Missing Values: Beyond Linear Interpolation [post]|[code]
+    Forecasting Uncertainty with Linear Models like in Deep Learning [post]|[code]
+    Time Series Forecasting with Feature Selection: Why you may need it [post]|[code]
+    Anomaly Detection in Multivariate Time Series with Network Graphs [post]|[code]
+    How to Improve Recursive Time Series Forecasting [post]|[code]
+    Retrain, or not Retrain? Online Machine Learning with Gradient Boosting [post]|[code]
+    Data Drift Explainability: Interpretable Shift Detection with NannyML [post]|[code]
+    Word2Vec with Time Series: A Transfer Learning Approach [post]|[code]
+    SHAP for Drift Detection: Effective Data Shift Monitoring [post]|[code]
+    Forecasting with Trees: Hybrid Classifiers for Time Series [post]|[code]
+    Boruta SHAP for Temporal Feature Selection [post]|[code]
+    Forecasting with Trees: Hybrid Modeling for Time Series [post]|[code]
+    Recursive Feature Selection: Addition or Elimination? [post]|[code]
+    Improve Random Forest with Linear Models [post]|[code]
+    Is Gradient Boosting good as Prophet for Time Series Forecasting? [post]|[code]
+    Linear Boosting with Automated Features Engineering [post]|[code]
+    Improve Linear Regression for Time Series Forecasting [post]|[code]
+    Boruta and SHAP for better Feature Selection [post]|[code]
+    Explainable AI with Linear Trees [post]|[code]
+    SHAP for Feature Selection and HyperParameter Tuning [post]|[code]
+    Model Tree: handle Data Shifts mixing Linear Model and Decision Tree [post]|[code]
+    Add Prediction Intervals to your Forecasting Model [post]|[code]
+    Linear Tree: the perfect mix of Linear Model and Decision Tree [post]
+    ARIMA for Classification with Soft Labels [post]|[code]
+    Advanced Permutation Importance to Explain Predictions [post]|[code]
+    Time Series Bootstrap in the age of Deep Learning [post]|[code]
+    Anomaly Detection with Extreme Value Analysis [post]|[code]
+    Time Series generation with VAE LSTM [post]|[code]
+    Extreme Event Time Series Preprocessing [post]|[code]
+    One-Class Neural Network in Keras [post]|[code]
+    Real-Time Time Series Anomaly Detection [post]|[code]
+    Entropy Application in the Stock Market [post]|[code]
+    Time Series Smoothing for better Forecasting [post]|[code]
+    Time Series Smoothing for better Clustering [post]|[code]
+    Predictive Maintenance with ResNet [post]|[code]
+    Neural Networks Ensemble [post]|[code]
+    Anomaly Detection in Multivariate Time Series with VAR [post]|[code]
+    Corr2Vec: a WaveNet architecture for Feature Engineering in Financial Market [post]|[code]
+    Siamese and Dual BERT for Multi Text Classification [post]|[code]
+    Time Series Forecasting with Graph Convolutional Neural Network [post]|[code]
+    Neural Network Calibration with Keras [post]|[code]
+    Combine LSTM and VAR for Multivariate Time Series Forecasting [post]|[code]
+    Feature Importance with Time Series and Recurrent Neural Network [post]|[code]
+    Group2Vec for Advance Categorical Encoding [post]|[code]
+    Survival Analysis with Deep Learning in Keras [post]|[code]
+    Survival Analysis with LightGBM plus Poisson Regression [post]|[code]
+    Predictive Maintenance: detect Faults from Sensors with CRNN and Spectrograms [post]|[code]
+    Multi-Sample Dropout in Keras [post]|[code]
+    When your Neural Net doesn’t know: a bayesian approach with Keras [post]|[code]
+    Dynamic Meta Embeddings in Keras [post]|[code]
+    Predictive Maintenance with LSTM Siamese Network [post]|[code]
+    Text Data Augmentation makes your model stronger [post]|[code]
+    Anomaly Detection with Permutation Undersampling and Time Dependency [post]|[code]
+    Time2Vec for Time Series features encoding [post]|[code]
+    Automate Data Cleaning with Unsupervised Learning [post]|[code]
+    People Tracking with Machine Learning [post]|[code]
+    Time Series Clustering and Dimensionality Reduction [post]|[code]
+    Anomaly Detection in Images [post]|[code]
+    Feature Importance with Neural Network [post]|[code]
+    Anomaly Detection with LSTM in Keras [post]|[code]
+    Dress Segmentation with Autoencoder in Keras [post]|[code]
+    Extreme Event Forecasting with LSTM Autoencoders [post]|[code]
+    Zalando Dress Recommendation and Tagging [post]|[code]
+    Remaining Life Estimation with Keras [post]|[code]
+    Quality Control with Machine Learning [post]|[code]
+    Predictive Maintenance: detect Faults from Sensors with CNN [post]|[code]
+
+
+
+
 ## Contributing
 
 Warm welcome for any contributions, please follow the [contributing guidelines](CONTRIBUTING.md).
