@@ -305,6 +305,18 @@ These notebooks use TensorFlow 2.6.
 * [Chapter 13: Best practices for the real world](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter13_best-practices-for-the-real-world.ipynb)
 * [Chapter 14: Conclusions](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter14_conclusions.ipynb)
 
+The whole book can be read using the links below. Each part contains a notebook that you can find in this repository.
+
+    Getting Started with PyTorch
+    Build Your First Neural Network
+    Transfer Learning for Image Classification using Torchvision
+    Face Detection on Custom Dataset with Detectron2
+    Time Series Forecasting with LSTMs for Daily Coronavirus Cases
+    Time Series Anomaly Detection using LSTM Autoencoders
+    Create Dataset for Sentiment Analysis by Scraping Google Play App Reviews
+    Sentiment Analysis with BERT and Transformers by Hugging Face
+    Deploy BERT for Sentiment Analysis as REST API using FastAPI
+    Object Detection on Custom Dataset with YOLO (v5)
 
 
 ## Contributing
